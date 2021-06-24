@@ -112,9 +112,6 @@ namespace server.Controllers
                     parameters.Add("supplier", data.Supplier);
                     parameters.Add("exDate", data.ExpectedDate);
                     parameters.Add("subTotal", data.Subtotal);
-                    //get products from product table 
-                    var produts = await productRepository.GetAll();
-                    var orderDetails = await orderRepository.GetAll();
                     LocalReport localReport = new LocalReport(path);
                     localReport.AddDataSource("DataSet3", data.Products);
                     var result = localReport.Execute(RenderType.Pdf, extension, parameters, mimtype);
