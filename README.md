@@ -37,6 +37,6 @@ for frontend you need CLI version 11+
 ## Screenshots
 ![Test Image 1](https://github.com/Piasuddin/ITIL_LAB_TEST/blob/main/Screenshot%20(48).png)
 ![Test Image 1](https://github.com/Piasuddin/ITIL_LAB_TEST/blob/main/Screenshot%20(47).png)
-![Test Image 1](https://github.com/Piasuddin/ITIL_LAB_TEST/blob/main/Screenshot%20(50).png)
-![Test Image 1](https://github.com/Piasuddin/ITIL_LAB_TEST/blob/main/Screenshot%20(51).png)
+![Test Image 1](https://github.com/Piasuddin/ITIL_LAB_TEST/blob/main/Screenshot%20(52).png)
+![Test Image 1](https://github.com/Piasuddin/ITIL_LAB_TEST/blob/main/Screenshot%20(53).png)
 
